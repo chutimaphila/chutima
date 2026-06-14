@@ -14,4 +14,4 @@ System Analysis, and Software Design.
 ## Projects
 
 - ☕ [Coffee Shop Management System](https://github.com/chutimaphila/coffee-shop-management-system)
-- 🎓 [Student Assistance and Follow-up System](https://github.com/chutimaphila/student-tracking-system)
+- 🎓 [Student Tracking System](https://github.com/chutimaphila/student-tracking-system)
